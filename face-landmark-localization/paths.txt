@@ -1,0 +1,10 @@
+/Users/youhan/Documents/GitHub/GazeCapture-master/data/00006/frames/00000.jpg
+/Users/youhan/Documents/GitHub/GazeCapture-master/data/00006/frames/00001.jpg
+/Users/youhan/Documents/GitHub/GazeCapture-master/data/00006/frames/00002.jpg
+/Users/youhan/Documents/GitHub/GazeCapture-master/data/00006/frames/00003.jpg
+/Users/youhan/Documents/GitHub/GazeCapture-master/data/00006/frames/00004.jpg
+/Users/youhan/Documents/GitHub/GazeCapture-master/data/00006/frames/00005.jpg
+/Users/youhan/Documents/GitHub/GazeCapture-master/data/00006/frames/00006.jpg
+/Users/youhan/Documents/GitHub/GazeCapture-master/data/00006/frames/00007.jpg
+/Users/youhan/Documents/GitHub/GazeCapture-master/data/00006/frames/00008.jpg
+/Users/youhan/Documents/GitHub/GazeCapture-master/data/00006/frames/00009.jpg
