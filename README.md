@@ -4,17 +4,17 @@ ffmpeg -i input.mp4 -vn -acodec pcm_s16le -ar 44100 -ac 2 output.wav
 
 
 ### Files:
-'crop.py':
+#### crop.py:   
 	Generating the inputs for iTracker, including the images of both eyes, faces and face grid for each image, please go to https://github.com/qiexing/face-landmark-localization to compile this package follow the instructions, and then copy 'crop.py' into the installation directory of 'face-landmark-localization' package. After modifying the attiributes such as input directory, you can run this file directory to generate features for iTracker.
 	
-Calibration.py:
+#### Calibration.py:    
 	Performing calibration and store the captured images.
 	
-Synchronize.ipynb:
+#### Synchronize.ipynb:    
 	Synchronize data sequences from Tobii and iTracker.
 	
-iTracker.ipynb:
+#### iTracker.ipynb:    
 	Generating frames using iTracker, producing saliency maps and eye gaze gaussian images, implement the time-series models.
 	
-CNN.ipynb:
+#### CNN.ipynb:    
 	The settings for the CNN regression model.
